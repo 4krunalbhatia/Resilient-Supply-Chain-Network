@@ -1,0 +1,6 @@
+scenario,throughput,service_level,avg_delivery_time,resilience_ratio
+Normal Operation,950,0.98,2.1,1.00
+Warehouse_1 Failure,720,0.85,3.4,0.76
+Supplier_A Failure,810,0.90,2.8,0.85
+DC_2 Failure,680,0.82,3.7,0.72
+Multiple Failures,550,0.70,4.5,0.58
