@@ -1,1 +1,11 @@
-
+source,target,capacity,node_type
+Supplier_A,Warehouse_1,120,Supplier
+Supplier_B,Warehouse_1,100,Supplier
+Supplier_C,Warehouse_2,90,Supplier
+Warehouse_1,DC_1,110,Warehouse
+Warehouse_1,DC_2,80,Warehouse
+Warehouse_2,DC_2,95,Warehouse
+DC_1,Retail_1,70,Distribution
+DC_1,Retail_2,60,Distribution
+DC_2,Retail_2,85,Distribution
+DC_2,Retail_3,75,Distribution
